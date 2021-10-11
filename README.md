@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✨ I'm a High School student living in Zonguldak.
+- 🔭 I’m currently working on my C project.
+- 🌱 I’m currently learning C and Zig.
