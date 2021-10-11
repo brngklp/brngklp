@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ✨ I'm a High School student living in Zonguldak.
 - 🔭 I’m currently working on my C project.
 - 🌱 I’m currently learning C and Zig.
-- 🤔 I use Linux as my daily driver and the distro I'm using currently is EndeavourOS
+- 🤔 I use Linux as my daily driver and the distro I'm currently using is EndeavourOS
