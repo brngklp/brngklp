@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - ✨ I'm a High School student living in Zonguldak.
 - 🔭 I’m currently working on my new projects.
-- 🌱 I’m currently learning Ruby.
+- 🌱 I’m currently learning Rust.
 - 🤔 I use Linux as my daily driver and the distro I'm currently using is Fedora 34.
