@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my new projects.
 - 🌱 I’m currently learning Rust.
 - 🤔 I use Linux as my daily driver and the distro I'm currently using is Fedora Workstation.  
-![image](https://github-readme-stats.vercel.app/api?username=brngklp) ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=brngklp)
+![image](https://github-readme-stats.vercel.app/api?username=brngklp)   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=brngklp)
